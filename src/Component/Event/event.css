@@ -1,0 +1,10 @@
+.desc{
+    padding: 5px;
+    background-color: #eceff1;
+}
+.location-icon {
+    margin-right: 10px;
+}
+.delete-btn{
+    cursor: pointer;
+}
